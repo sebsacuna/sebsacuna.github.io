@@ -1,0 +1,38 @@
+h1,h2 {
+  text-align: center;
+}
+h1 {
+  color:red;
+  font-family: cursive;
+}
+h2 {
+  color:blue;
+}
+
+p {
+  font-family: Arial, cursive;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  ali
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 5px;
+  width: 50%;
+}
+
+th {
+  background-color: lightgray;
+}
+
+#presentation {
+  margin: auto;
+  font-size: 12;
+  font-family: serif;
+  text-align: center;
+  width: 300px;
+}
