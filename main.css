@@ -36,3 +36,8 @@ th {
   text-align: center;
   width: 300px;
 }
+
+#journal {
+  font-family: monospace;
+  font-size: 10;
+}
