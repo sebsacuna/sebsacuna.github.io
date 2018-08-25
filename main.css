@@ -21,8 +21,8 @@ th {
 
 nav ul{
   list-style-type: none;
-  margin:none
-  padding:0
+  margin:10px;
+
 }
 nav li{
   display: inline;
