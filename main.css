@@ -1,22 +1,6 @@
-h1,h2 {
-  text-align: center;
-}
-h1 {
-  color:red;
-  font-family: cursive;
-}
-h2 {
-  color:blue;
-}
-
-p {
-  font-family: Arial, cursive;
-}
-
-table {
+table.mytable {
   border: 2px solid black;
   border-collapse: collapse;
-  ali
 }
 
 td, th {
@@ -29,15 +13,22 @@ th {
   background-color: lightgray;
 }
 
-#presentation {
+.center {
   margin: auto;
-  font-size: 12;
-  font-family: serif;
+  width: 50%;
   text-align: center;
-  width: 300px;
 }
 
-#journal {
-  font-family: monospace;
-  font-size: 10;
+nav ul{
+  list-style-type: none;
+  margin:none
+  padding:0
+}
+nav li{
+  display: inline;
+  text-align: center;
+  padding: 14px 16px;
+}
+nav a{
+  display:inline-block;
 }
